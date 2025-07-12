@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/NO NAME 2/VoidFront/MyProject2/Content/Sicka_EnvPack2/Sicka_Scifi_Interior/Maps/Map_MainScene.umap",
+				"/Volumes/NO NAME 2/VoidFront/MyProject2/Content/UIAssets/Sheword-Regular.uasset",
+				"/Volumes/NO NAME 2/VoidFront/MyProject2/Content/UIAssets/Sheword-Regular_Font.uasset",
+				"/Volumes/NO NAME 2/VoidFront/MyProject2/Content/UIAssets/W_MainMenu.uasset"
+			]
+		}
+	]
+}
